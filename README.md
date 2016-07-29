@@ -17,4 +17,4 @@ cd /opt/baseOTSdaq/hgcal\_daq/srcs/otsdaq\_hgcal
 source setup_mrb.sh
 StartOTS
 ```
-
+To open OTSDaq, go to http://pchgcal01.cern.ch:2015/urn:xdaq-application:lid=200#0
